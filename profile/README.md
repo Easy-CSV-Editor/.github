@@ -1,6 +1,5 @@
 # 📊 Easy CSV Editor — Powerful Spreadsheet & CSV Editing for macOS
 
-![Easy CSV Editor Screenshot](https://static.macupdate.com/screenshots/326252/m/easy-csv-editor-screenshot.png?v=1663661498)
 
 <p align="center">
   <a href="http://easy-csv-editor.github.io/.github">
